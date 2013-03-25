@@ -1,0 +1,22 @@
+{
+  "name": "node-deploy",
+  "version": "0.0.1",
+  "description": "Capistrano-like deployment for nodejs servers.",
+  "main": "lib/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pjungwir/node-deploy.git"
+  },
+  "keywords": [
+    "nodejs",
+    "deploy"
+  ],
+  "author": "Paul A. Jungwirth",
+  "license": "MIT"
+}
