@@ -18,5 +18,10 @@
     "deploy"
   ],
   "author": "Paul A. Jungwirth",
-  "license": "MIT"
+  "license": "MIT",
+
+  "devDependencies": {
+    "mocha": "",
+    "should": ""
+  }
 }
